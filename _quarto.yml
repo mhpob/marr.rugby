@@ -2,8 +2,10 @@ project:
   type: website
 
 website:
-  title: "marr.rugby"
+  title: "Mid-Atlantic Rugby Referees"
   navbar:
+    background: success 
+    foreground: dark
     left:
       - href: index.qmd
         text: Home
@@ -11,7 +13,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
 

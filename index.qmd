@@ -1,11 +1,8 @@
 ---
-title: "marr.rugby"
+title: "Mid-Atlantic Rugby Referees"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
