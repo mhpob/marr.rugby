@@ -7,9 +7,11 @@ website:
     background: success 
     foreground: dark
     left:
-      - href: index.qmd
-        text: Home
       - about.qmd
+      - text: Reimbursement Form
+        href: https://docs.google.com/forms/d/1gaqwOQ4LWzOPcFlu7MspXD7Ir5_VWiiSfiUvytvfjcM/edit
+      - text: Discipline Reporting
+        href: discipline/index.qmd
 
 format:
   html:
